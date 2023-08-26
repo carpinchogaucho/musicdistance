@@ -1,0 +1,4 @@
+name: musicdistance
+version: '${project.version}'
+main: me.lexo.Musicdistance
+api-version: '1.19'
